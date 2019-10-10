@@ -9,3 +9,5 @@ print('Hyperparameter Tuning Bayesian Optimization')
 print('Some random changes {1..5..1}')
 
 print('Hyperparameter Tuning Bayesian Optimization - Completed')
+
+print('Hyperparameter Tuning Bayesian Optimization EXTENDED - Completed')
